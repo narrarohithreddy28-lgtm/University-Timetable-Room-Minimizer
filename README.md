@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏛️ University Timetable Room Minimizer (DAA Hackathon)
 
 [![React](https://img.shields.io/badge/Frontend-React%2018%20%2B%20Vite-61DAFB?logo=react&logoColor=white)](https://react.dev/)
@@ -139,3 +140,6 @@ The frontend application will start on `http://localhost:5173`.
 ## 📜 License
 
 This project is licensed under the MIT License.
+=======
+# University-Timetable-Room-Minimizer
+>>>>>>> 26e603b3564d72cb4cf73ea646bcfaf24d5b2cdb
